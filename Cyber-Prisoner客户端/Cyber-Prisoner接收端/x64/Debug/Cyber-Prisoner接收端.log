@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\Administrator\Desktop\试胆竞速\二面\Cyber-Prisoner接收端\Cyber-Prisoner接收端\Cyber-Prisoner接收端\源.cpp(25,20): warning C4309: “参数”: 截断常量值
+C:\Users\Administrator\Desktop\试胆竞速\二面\Cyber-Prisoner接收端\Cyber-Prisoner接收端\Cyber-Prisoner接收端\源.cpp(25,12): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\试胆竞速\二面\Cyber-Prisoner接收端\Cyber-Prisoner接收端\Cyber-Prisoner接收端\源.cpp(40,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Cyber-Prisoner接收端.vcxproj -> C:\Users\Administrator\Desktop\试胆竞速\二面\Cyber-Prisoner接收端\Cyber-Prisoner接收端\x64\Debug\Cyber-Prisoner接收端.exe
